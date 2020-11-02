@@ -45,11 +45,11 @@ setPositiveBuuton和setNegativeButton为对话框设置一个Cancel和Sign in按
 ![3.1](https://github.com/Xiaohui-Song/UI-/blob/main/pic/3.1.png)<br>
 字体大小子菜单<br>
 ![3.2](https://github.com/Xiaohui-Song/UI-/blob/main/pic/3.2.png)<br>
-改变字体大小
+改变字体大小<br>
 ![3.3](https://github.com/Xiaohui-Song/UI-/blob/main/pic/3.3.png)<br>
-改变文字颜色
+改变文字颜色<br>
 ![3.4](https://github.com/Xiaohui-Song/UI-/blob/main/pic/3.4.png)<br>
-显示提示框
+显示提示框<br>
 ![3.5](https://github.com/Xiaohui-Song/UI-/blob/main/pic/3.5.png)<br>
 
 ##4.创建如图模式的上下文菜单
