@@ -1,6 +1,6 @@
 # UI-
 
-##1.利用SimpleAdapter实现如下界面效果：
+## 1.利用SimpleAdapter实现如下界面效果：
 </br>
 ![exp4_01](https://github.com/Xiaohui-Song/UI-/blob/main/pic/exp1.png)<br>
 (1)利用SimpleAdapter创建ListView实现整体布局，大体思路如下：<br>
@@ -19,7 +19,7 @@ b.利用position和自己定义一个int型属性，判断当前点击位置和�
 最后效果如下图所示：<br>
 ![1](https://github.com/Xiaohui-Song/UI-/blob/main/pic/1.png)<br>
 
-##2.创建如图所示的自定义对话框
+## 2.创建如图所示的自定义对话框
 </br>
 ![exp4_02](https://github.com/Xiaohui-Song/UI-/blob/main/pic/exp2.png)<br>
 (1)实现自定义对话框，先将自定义对话框的图片，输入框写到一个布局中<br>
@@ -30,7 +30,7 @@ setPositiveBuuton和setNegativeButton为对话框设置一个Cancel和Sign in按
 ![2.1](https://github.com/Xiaohui-Song/UI-/blob/main/pic/2.1.png)<br>
 ![2.2](https://github.com/Xiaohui-Song/UI-/blob/main/pic/2.2.png)<br>
 
-##3.使用XML定义菜单
+## 3.使用XML定义菜单
 </br>
 ![exp4_02](https://github.com/Xiaohui-Song/UI-/blob/main/pic/exp3.png)<br>
 (1)创建自定义菜单,定义菜单项标识<br>
@@ -52,9 +52,9 @@ setPositiveBuuton和setNegativeButton为对话框设置一个Cancel和Sign in按
 显示提示框<br>
 ![3.5](https://github.com/Xiaohui-Song/UI-/blob/main/pic/3.5.png)<br>
 
-##4.创建如图模式的上下文菜单
+## 4.创建如图模式的上下文菜单
 </br>
-！[exp4_04](https://github.com/Xiaohui-Song/UI-/blob/main/pic/exp4.png)<br>
+![exp4_04](https://github.com/Xiaohui-Song/UI-/blob/main/pic/exp4.png)<br>
 (1)界面同理第一个实验，利用SimpleAdapter创建ListView实现整体布局<br>
 (2)setOnItemClickListener实现点击一个按钮变色，再次点击后恢复原色<br>
 (3)在ListView中启动批处理上下文操作，实现 AbsListView.MultiChoiceModeListener 接口，并使用 setMultiChoiceModeListener() 为视图组设置该接口。
