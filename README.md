@@ -73,7 +73,7 @@ setPositiveBuuton和setNegativeButton为对话框设置一个Cancel和Sign in按
 
 ![4](https://github.com/Xiaohui-Song/UI-/blob/main/pic/4.png)<br>
 
-##问题及解决
+## 问题及解决
 </br>
 (1)如何启动另一个activity:创建新的activity后会在AndroidManifest自动生成相关代码，在其中添加android:supportsRtl="true"后，右键目标activity点击run<br>
 (2)启动虚拟机标题栏消失:在AndroidManifest对应的activity中添Androidandroid:theme="@style/AppTheme"保持系统默认<br>
