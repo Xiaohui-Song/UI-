@@ -17,7 +17,7 @@ d.实例化Listview，通过setAdapter装配数据到布局页面。<br>
 a.使用Toast显示提示框<br>
 b.利用position和自己定义一个int型属性，判断当前点击位置和上一个点击位置，通过setBackgroundColor改变当前点击item颜色和恢复上一个点击item的颜色<br>
 最后效果如下图所示：<br>
-![1](https://github.com/Xiaohui-Song/UI-/blob/main/pic/1.png)<br>
+##### ![1](https://github.com/Xiaohui-Song/UI-/blob/main/pic/1.png)<br>
 
 ## 2.创建如图所示的自定义对话框
 </br>
