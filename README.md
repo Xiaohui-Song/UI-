@@ -45,15 +45,20 @@ setPositiveBuuton和setNegativeButton为对话框设置一个Cancel和Sign in按
 	->第四个参数为:菜单项内容<br>
 (3)重写Activity中的onOptionsItemSelected(MenuItem mi)方法，响应菜单点击事件，利用getItemId()获取点击的菜单id以及Switch case判断所点击的菜单以及所做出的响应<br>
 最后效果如下图所示：<br>
-菜单项<br>
+菜单项<br>  
+
 ![3.1](https://github.com/Xiaohui-Song/UI-/blob/main/pic/3.1.png)<br>
-字体大小子菜单<br>
+字体大小子菜单<br>  
+
 ![3.2](https://github.com/Xiaohui-Song/UI-/blob/main/pic/3.2.png)<br>
-改变字体大小<br>
+改变字体大小<br>  
+
 ![3.3](https://github.com/Xiaohui-Song/UI-/blob/main/pic/3.3.png)<br>
-改变文字颜色<br>
+改变文字颜色<br>  
+
 ![3.4](https://github.com/Xiaohui-Song/UI-/blob/main/pic/3.4.png)<br>
-显示提示框<br>
+显示提示框<br>  
+
 ![3.5](https://github.com/Xiaohui-Song/UI-/blob/main/pic/3.5.png)<br>
 
 ## 4.创建如图模式的上下文菜单
@@ -64,7 +69,8 @@ setPositiveBuuton和setNegativeButton为对话框设置一个Cancel和Sign in按
 (2)setOnItemClickListener实现点击一个按钮变色，再次点击后恢复原色<br>
 (3)在ListView中启动批处理上下文操作，实现 AbsListView.MultiChoiceModeListener 接口，并使用 setMultiChoiceModeListener() 为视图组设置该接口。
 在侦听器的回调方法中，实现在上下文中显示选中的item个数<br>
-最后效果如下图所示：<br>
+最后效果如下图所示：<br>  
+
 ![4](https://github.com/Xiaohui-Song/UI-/blob/main/pic/4.png)<br>
 
 ##问题及解决
