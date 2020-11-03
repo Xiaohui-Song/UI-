@@ -1,7 +1,8 @@
 # UI-
 
 ## 1.利用SimpleAdapter实现如下界面效果：
-</br>    
+</br>  
+
 ![exp4_01](https://github.com/Xiaohui-Song/UI-/blob/main/pic/exp1.png)<br>
 (1)利用SimpleAdapter创建ListView实现整体布局，大体思路如下：<br>
 a.设定一个布局文件添加对应控件并赋ID，创建一个用嵌套Map集合的List集合（注意Map的键要求为Strnig）<br>
@@ -21,7 +22,8 @@ b.利用position和自己定义一个int型属性，判断当前点击位置和�
 ![1](https://github.com/Xiaohui-Song/UI-/blob/main/pic/1.png)<br>
 
 ## 2.创建如图所示的自定义对话框
-</br>
+</br>  
+
 ![exp4_02](https://github.com/Xiaohui-Song/UI-/blob/main/pic/exp2.png)<br>
 (1)实现自定义对话框，先将自定义对话框的图片，输入框写到一个布局中<br>
 (2)activity中调用编写一个函数，函数中实例化AlertDialog.Builder对象，对象调用setView方法，接受自己编写的布局，作为对话框的内容，
