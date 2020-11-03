@@ -1,6 +1,6 @@
 # UI-
 
-##1.利用SimpleAdapter实现如下界面效果：
+## 1.利用SimpleAdapter实现如下界面效果：
 </br>
 ![exp4_01](https://github.com/Xiaohui-Song/UI-/blob/main/pic/exp1.png)<br>
 (1)利用SimpleAdapter创建ListView实现整体布局，大体思路如下：<br>
